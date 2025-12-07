@@ -8,15 +8,20 @@ O desafio consiste em desenvolver uma aplicação que receba o nome e as notas d
 
 ---
 
-## 🎯 **Objetivo do Projeto**
+🎯 Objetivo do Projeto
 
-Criar uma aplicação em **JavaScript** capaz de:
+Criar uma aplicação em JavaScript capaz de:
 
 ✔️ Receber o nome dos atletas
+
 ✔️ Receber as 5 notas dadas pelos jurados
+
 ✔️ Ordenar essas notas
-✔️ Desconsiderar a **maior** e a **menor**
-✔️ Calcular a média das **3 notas centrais**
+
+✔️ Desconsiderar a maior e a menor
+
+✔️ Calcular a média das 3 notas centrais
+
 ✔️ Exibir o nome, as notas e a média válida
 
 Este projeto demonstra o domínio de conceitos fundamentais de programação e é um dos requisitos para a certificação do curso.
@@ -102,14 +107,6 @@ Média Válida: 9.833333333333334
  ├── 📄 notas-atletas.js   # Arquivo principal da lógica do projeto
  └── 📄 README.md          # Explicação do projeto e instruções de uso
 ```
-
----
-
-## 🎓 **Sobre o Projeto de Certificação DEVstart**
-
-Este projeto tem como finalidade:
-
-* Avaliar o entendimento dos fundamentos de JavaScript
 * Trabalhar com arrays, objetos, sort, slice, loops e cálculos
 * Demonstrar a capacidade de resolver problemas usando lógica de programação
 
